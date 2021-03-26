@@ -23,4 +23,4 @@ def articles():
         }
     ]
 
-    return articles
+    return (articles)
